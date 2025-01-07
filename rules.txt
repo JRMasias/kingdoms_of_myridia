@@ -1,0 +1,88 @@
+each civilian requires 1 food per 24 hours
+each worker requires 2 food per 24 hours
+each soldier requires 5 food per 24 hours
+
+each worker farms (region bonus) + 2 per hour
+
+each farm costs 100 wood, 50 stone, 100 metal, 25 oil, and 5 gold
+each house costs 500 wood, 200 stone, 200 metal, 50 oil, and 20 gold
+each tower costs 500 stone, 200 wood, 100 metal, 25 oil, and 50 gold
+each castle costs 10000 stone, 5000 wood, 2500 metal, 500 oil, and 1500 gold
+
+each worker costs 1 gold per day
+each soldier costs 2 gold per day
+kingdom tax costs (population * .05) food and 5 gold per day
+
+siege towers costs 5000 wood, 2000 metal, and 500 gold
+catapults cost 2500 wood, 1000 metal, and 350 gold
+ballistas cost cost 1000 wood, 1000 metal, and 250 gold
+battering rams cost 1000 wood, 250 metal, and 200 gold
+
+if soldiers stop getting paid and/or stop getting daily food, they may leave the army
+if workers stop getting daily food, they may quit working
+
+if civilians stop getting daily food, they may leave the kingdom
+OR
+they may uprise and kill a hero after a set time period. if there are no more heroes left
+they will leave the kingdom entirely leaving a population of 0. the only way a player can
+start producing again is to make an ally and barter for enough resources to entice new
+civilians, or wait long enough for civilians to slowly trickle in.
+
+if a kingdom is under siege, resource collection stops
+if a kingdom is being invaded, the hero acts as the army (if they are present)
+
+a kingdom can be completely destroyed and that player must then create a new family
+
+a sieging army can still produce resources, but the daily costs triple
+
+======================================================================
+======================================================================
+population is the total
+civilians are the allotment
+
+you can subtract from workers or soldiers and increase the civilian value
+you can add to workers or soldiers and decrease the civilian value
+
+**ADMINS CAN SEE ALL PLAYERS AND THEIR DATABASE VALUES (MINUS PASSWORD)
+**ADMINS CAN DELETE PLAYERS OR SET A BAN ON THEM FOR A CERTAIN AMOUNT OF TIME
+**ADMINS CAN UPDATE A PLAYERS RESOURCES
+**ADMINS CAN UPGRADE A PLAYER TO ADMIN
+
+======================================================================
+=========================                =============================
+====================== GROWING A POPULATION ==========================
+=========================                =============================
+======================================================================
+Starting population is 1000 where the entire population is civilians.
+
+When a house is made, the population goes up by 10.
+
+======================================================================
+============================           ===============================
+========================== REGION BONUSES ============================
+============================           ===============================
+======================================================================
+NORTH:
+	Wood: 
+	Stone: 
+	Oil: 
+	Gold: 
+	Metal: 
+EAST:
+	Wood: 
+	Stone: 
+	Oil: 
+	Gold: 
+	Metal: 
+SOUTH:
+	Wood: 
+	Stone: 
+	Oil: 
+	Gold: 
+	Metal: 
+WEST:
+	Wood: 
+	Stone: 
+	Oil: 
+	Gold: 
+	Metal: 

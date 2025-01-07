@@ -1,0 +1,22 @@
+.small-caps {
+  font-variant: small-caps;
+}
+
+.my-drop-shadow-gold {
+  text-shadow: 0px 0px 75px #8d730c;
+}
+
+.my-drop-shadow-blue {
+  text-shadow: 0px 0px 55px #25529a;
+}
+
+.stats-green {
+  color: #166534;
+}
+
+div.stats-container:has(section > p > span.stats-green):hover
+  > section
+  > p
+  > span.stats-green {
+  color: #4ade80;
+}

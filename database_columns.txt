@@ -1,0 +1,8 @@
+id	email	password(enc)	created_at
+surname	hero1	hero2	hero3	population
+wood	metal	oil	food	gold
+civilians	workers	houses	castles	
+enemies	friends	plague_infection kingdoms
+kingdom_radius	kingdom_coord_x	kingdom_coord_y
+husband	wife	child1	child2	child3
+probationary_period(date)
